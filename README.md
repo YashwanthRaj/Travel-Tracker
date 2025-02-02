@@ -23,3 +23,7 @@ The goal of this stage is to check and report if the entered country name does n
 ### Stage 4:
 
 The goal of this stage is to understand and render the country names which has a long names and people enter only one part of the country name and leave out the rest. We resolve this part by adding **like** in query. So if the country name part entered is actually part of the country name in the database, then we can identify and return the country code.
+
+
+### Family Travel Tracker
+The new commint/version tracks the locations of the entire family and not just a single user
